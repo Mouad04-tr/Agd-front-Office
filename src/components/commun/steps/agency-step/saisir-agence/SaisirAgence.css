@@ -1,0 +1,50 @@
+.container {
+    display: flex;
+    justify-content: space-between;
+
+}
+.style-saisir-agence {
+    padding-left: 4%;
+    width: 45%;
+}
+.map-style{
+    width: 55%;
+}
+.p-agence {
+    color: #737171;
+    opacity: 0.9;
+    font-size: 18px;
+    line-height: 1.22;
+    padding-bottom: 1%;
+}
+.label-agence {
+    color: #737171;
+    font-size: 100%;
+    font-family: product-sans-regular;
+    line-height: 1.23;
+    padding-bottom: 1.5%;
+}
+.button-saisir-agence {
+    color: #ffffff;
+    margin-top: 2%;
+    width: 60%;
+    font-size: 1.2em;
+    text-align: center;
+    font-family: ITCAvantGardeStd-medium;
+    line-height: 20px;
+    margin-bottom: 2%;
+    border-radius: 0.2em;
+    background-color: #00BDBB;
+}
+
+.formSelectStyle {
+    width: 70%;
+    border-top: 1px #FFFFFF solid;
+    border-left: 1px #FFFFFF solid;
+    border-right: 1px #FFFFFF solid;
+    border-bottom: 2px #000000 solid;
+    margin-bottom: 2%;
+    border-radius: 0px;
+
+
+}

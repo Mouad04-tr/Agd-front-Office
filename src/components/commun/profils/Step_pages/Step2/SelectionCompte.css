@@ -1,0 +1,92 @@
+.Container_mre{
+    border: none;
+    width: 60%;
+    height: 17%;
+    margin-top: 70px;
+    margin-left: 20%;
+    font-size: 1.3rem;
+    padding: 80px 100px;
+    background-color:hsl(0,0%,100%);
+    line-height: 30px;
+    border-radius: 20px
+}
+
+
+.just-inf_mre .h3_mre_selct{
+    color: hsl(210.48,100%,24.31%);
+}
+
+.Triplette_mre .card1_mre,.card2_mre,.card3_mre{
+display: flex;
+border: none;
+background-color:hsl(204.71,62.96%,94.71%);
+font-size: 1.1rem;
+margin-bottom: 15px;
+border-radius: 10px;
+padding: 10px 10px;
+}
+.h6_mre_selct{
+    color: #60b9e9;
+}
+.p_mre_selct{
+    color:hsl(210.48,100%,24.31%);
+}
+
+.next_mre{
+        min-width: 130px;
+        height: 40px;
+        color: #fff;
+        padding: 5px 10px;
+        font-weight: bold;
+        cursor: pointer;
+        transition: all 0.3s ease;
+        position: relative;
+        display: inline-block;
+        margin-left: 5%;
+        outline: none;
+        border-radius: 5px;
+        border: none;
+        box-shadow:inset 2px 2px 2px 0px rgba(255,255,255,.5), 7px 7px 20px 0px rgba(0,0,0,.1), 4px 4px 5px 0px rgba(0,0,0,.1);
+        background: #4433ff;
+      }
+      .next_mre:hover {
+        background-color: #3a86ff;
+      }
+      .next_mre:active {
+        top: 2px;
+      }
+
+
+      .prev_mre{
+        min-width: 130px;
+        height: 40px;
+        color: #fff;
+        padding: 5px 10px;
+        font-weight: bold;
+        cursor: pointer;
+        transition: all 0.3s ease;
+        position: relative;
+        display: inline-block;
+        outline: none;
+        border-radius: 5px;
+        border: none;
+        box-shadow:inset 2px 2px 2px 0px rgba(255,255,255,.5), 7px 7px 20px 0px rgba(0,0,0,.1), 4px 4px 5px 0px rgba(0,0,0,.1);
+        background: #2c0b8e;
+      }
+      .prev_mre:hover {
+        background-color: #3d348b;
+      }
+      .prev_mre:active {
+        top: 2px;
+      }
+
+
+
+ input[type = "checkbox"] { 
+    width: 30px;
+    height: 20px;
+    margin-right: 3px;
+ }    
+
+
+

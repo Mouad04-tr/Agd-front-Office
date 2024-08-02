@@ -1,0 +1,12 @@
+.button-suivre {
+    color: #ffffff;
+    width: 30%;
+    font-size: 1.2em;
+    text-align: center;
+    font-family: ITCAvantGardeStd-medium;
+    line-height: 20px;
+    margin-bottom: 2%;
+    border-radius: 0.2em;
+    background-color: #00BDBB;
+    margin-right: 10%;
+}

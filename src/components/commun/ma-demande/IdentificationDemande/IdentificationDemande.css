@@ -1,0 +1,29 @@
+.h2-demande{
+    text-align: center;
+    color: #737171;
+    font-size: 30px;
+    font-family: product-sans-regular;
+    line-height: 1.2;
+    margin-top: 10%;
+}
+.p-demande{
+    text-align: center;
+    color: #C4C4C4;
+    font-size: 15px;
+    font-family: product-sans-regular;
+    line-height: 1.21;
+    margin-bottom: 10%;
+}
+.button-saisir-email-demande{
+    color: #ffffff;
+    width: 20%;
+    font-size: 1.2em;
+    text-align: center;
+    font-family: ITCAvantGardeStd-medium;
+    line-height: 20px;
+    margin-bottom: 2%;
+    margin-left: 35%;
+    margin-top: 10%;    
+    border-radius: 0.2em;
+    background-color: #00BDBB;
+}

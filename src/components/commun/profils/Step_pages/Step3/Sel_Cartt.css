@@ -1,0 +1,90 @@
+.Container-Carte{
+    border: none;
+    width: 60%;
+    height: 17%;
+    margin-top: 70px;
+    margin-left: 300px;
+    font-size: 1rem;
+    padding: 80px 100px;
+    background-color:hsl(0,0%,100%);
+    line-height: 30px;
+    border-radius: 20px;
+}
+
+.twice-cards .card1,.card2,.card3,.card4{
+    display: flex;
+    border: none;
+    background-color:hsl(204.71,62.96%,94.71%);
+    font-size: 1.1rem;
+    margin-bottom: 15px;
+    border-radius: 10px;
+    padding: 10px 10px;
+    }
+
+    h6{
+        color: #60b9e9;
+    }
+    p{
+        color:hsl(210.48,100%,24.31%);
+    }
+
+.next{
+    min-width: 130px;
+    height: 40px;
+    color: #fff;
+    padding: 5px 10px;
+    font-weight: bold;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    position: relative;
+    display: inline-block;
+    outline: none;
+    border-radius: 5px;
+    border: none;
+    box-shadow:inset 2px 2px 2px 0px rgba(255,255,255,.5), 7px 7px 20px 0px rgba(0,0,0,.1), 4px 4px 5px 0px rgba(0,0,0,.1);
+    background: #4433ff;
+  }
+  .next:hover {
+    background-color: #3a86ff;
+  }
+  .next:active {
+    top: 2px;
+  }
+
+
+  .prev{
+    min-width: 130px;
+    height: 40px;
+    color: #fff;
+    padding: 5px 10px;
+    font-weight: bold;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    position: relative;
+    display: inline-block;
+    outline: none;
+    border-radius: 5px;
+    border: none;
+    box-shadow:inset 2px 2px 2px 0px rgba(255,255,255,.5), 7px 7px 20px 0px rgba(0,0,0,.1), 4px 4px 5px 0px rgba(0,0,0,.1);
+    background: #2c0b8e;
+  }
+  .prev:hover {
+    background-color: #3d348b;
+  }
+  .prev:active {
+    top: 2px;
+  }
+
+.price{
+font-size: small;
+color: hsl(179.37,100%,37.06%);
+justify-content: space-between;
+font-family: cursive;
+}
+
+.under{
+  font-size: medium;
+  color: #3d348b;
+  font-family: cursive;
+}
+

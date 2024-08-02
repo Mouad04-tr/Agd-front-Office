@@ -1,0 +1,25 @@
+.offre-root {
+    background-color: rgb(5, 106, 167);
+    width: 90%;
+    height: auto;
+    border-radius: 0.5em;
+    position: absolute;
+    margin: 380px  5% 5% 5%;
+    padding-bottom: 2em;
+    display: flex;
+    flex-direction: column;
+}
+.title {
+    color: #ffffff;
+    font-size: 22px;
+    font-family: ITCAvantGardeStd-medium;
+    font-weight: 600;
+    line-height: 40px;
+    padding-top: 18px;
+    margin-bottom: 20px;
+}
+.container {
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content: space-around;
+}

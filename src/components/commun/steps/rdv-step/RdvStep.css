@@ -1,0 +1,26 @@
+.title-back {
+    background: #E5E5E5;
+    display: flex;
+    flex-direction: column;
+}
+.title-creation {
+    color: #004C7A;
+    font-size: 2.5em;
+    text-align: center;
+    font-family: ITCAvantGardeStd;
+    font-weight: bold;
+    padding-top: 2%
+}
+.container-creation {
+    background-color: #FFFFFF;
+    width:60%;
+    height: auto;
+    margin: 3% 20%;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.6);
+    padding: 40px;
+    border-radius: 8px;
+    font-family: "Roboto", "Helvetica", "Arial", sans-serif;
+    display: flex;
+    flex-direction: column;
+
+}

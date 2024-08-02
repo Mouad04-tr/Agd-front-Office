@@ -1,0 +1,36 @@
+.pack-container{
+    width: 90%;
+    position: absolute;
+    margin-top: 360px;
+    margin-left: 5%; 
+    padding-bottom: 2em;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around;  
+}
+.pack-link {
+    color: inherit;
+    text-decoration: none;
+    width:25%;    
+    margin-top: 5%;
+    margin-right:5%;
+    margin-left: 3%;
+}
+.pack-element {
+    cursor: pointer;
+    border-radius: 0.2em;
+    height: 100%;
+    font-size: 2rem;
+    font-family: "Roboto", "Helvetica", "Arial", sans-serif;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.title-pack{
+    color: rgb(255, 255, 255);
+    font-family: "Roboto", "Helvetica", "Arial", sans-serif;
+    font-size: 30px;
+    text-align: center;
+    font-weight: 700;
+}

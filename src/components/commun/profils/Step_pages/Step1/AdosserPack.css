@@ -1,0 +1,87 @@
+.Content_mre{
+    border: none;
+    width: 50%;
+    height: 17%;
+    margin-top: 70px;
+    margin-left: 25%;
+    font-size: 1.3rem;
+    padding: 80px 100px;
+    background-color:hsl(0,0%,100%);
+    line-height: 30px;
+    border-radius: 20px;
+}
+input[type="radio"] {
+  width: 20px;
+  height: 20px;
+  margin-right: 12px;
+}
+.flex_mre{
+    display: flex;
+    gap: 2rem;
+}
+.cpt_mre.flex_mre{
+    flex-direction: column;
+    row-gap: 2px;
+    margin-bottom: 40px;
+    margin-top: 20px;
+}
+
+.qst_mre{
+    margin-bottom: 3px;
+    font-size: large;
+    color: hsl(202.62,100%,23.92%);
+    font-weight: bolder;
+}
+
+.btnnn_mre {
+    margin-top: 40px;
+    background-color: hsl(202.44,95.2%,50.98%);
+    border-radius: 10px;
+    font-family: Arial;
+    font-size: 20px;
+    padding: 14px 93px;
+    text-decoration: none;
+    margin-left: 80px;
+   line-height: 20px;
+   border: none;
+   color:white;
+   font-size: 1.1rem;
+   transition: .3s;
+   box-shadow: 4px 4px 6px rgb(107, 102, 102);
+  }
+
+  .btnnn_mre:hover{
+  background-color:hsl(179.52,58.33%,57.65%);
+  cursor: pointer;
+  }
+  
+
+.twice-btn_mre{
+margin-bottom: 12px;
+}
+
+.p_mre{
+    margin-bottom: 12px;
+    font-size: 1.1rem;
+}
+.twice-btn_mre .first-rd_mre ,.Second-rd_mre{
+    border: 1px solid hsl(179.52,58.33%,57.65%);
+    padding: 15px 15px;
+    border-radius: 7px;
+    background-color: hsl(204.71,62.96%,94.71%);
+    color: hsl(231.55,40.57%,65.69%);
+    font-weight: small;
+    font-size: 1.2rem;
+}
+.MAD_mre, .MAD-conv_mre{
+border: 1px solid hsl(179.52,58.33%,57.65%);
+border-radius: 5px;
+color:hsl(201, 44%, 44%);
+padding:20px 20px;
+background-color: hsl(204.71,62.96%,94.71%);
+margin-top: 10px;
+font-size: 1.1rem;
+font-weight: bold;
+}
+
+

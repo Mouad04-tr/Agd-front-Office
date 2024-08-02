@@ -1,0 +1,14 @@
+enum StepClient {
+    
+    EMAIL_STEP = "EMAIL_STEP",
+    PHONE_STEP = "PHONE_STEP",
+    OCR_STEP = "OCR_STEP",
+    VERIFICATION_STEP = "VERIFICATION_STEP",
+    AGENCY_STEP = "AGENCY_STEP",
+    RECAP_STEP = "RECAP_STEP",
+    PAYMENT_STEP = "PAYMENT_STEP",
+    RDV_STEP = "RDV_STEP",
+    SPACE_STEP = "SPACE_STEP"
+}
+
+export default StepClient;

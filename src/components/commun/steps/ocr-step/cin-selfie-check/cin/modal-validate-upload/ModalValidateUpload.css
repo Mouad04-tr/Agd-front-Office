@@ -1,0 +1,22 @@
+.img-validate-upload {
+    width: 60%;
+    height: auto;
+    margin-bottom: 2%;
+}
+.modal-footer-upload-validate {
+    background-color: rgb(233, 241, 250);
+    display: flex;
+    justify-content: space-between;
+}
+.modal-button-upload-validate{
+    color: #ffffff;
+    width: 45%;
+    font-size: 1em;
+    text-align: center;
+    font-family: ITCAvantGardeStd-medium;
+    line-height: 20px;
+    margin-bottom: 2%;
+    border-radius: 0.2em;
+    background-color: #3399FE;
+    padding: 2%;
+}
